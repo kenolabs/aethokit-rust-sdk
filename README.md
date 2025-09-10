@@ -1,4 +1,4 @@
-# Aethokit Rust SDK (Rust)
+# Aethokit Rust SDK
 
 Rust SDK for the **Aethokit** gas sponsorship API — a mirror of the TypeScript SDK.
 
